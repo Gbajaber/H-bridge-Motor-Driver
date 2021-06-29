@@ -2,8 +2,11 @@
 electronics section - second task
 
 This project is considered as required by smart methods company in cooperative training for the year 2021 
+
 Tinkercad is the website that used to create this circuit
+
 The objective to move the motors at clockwise
+
 componets Arduino Uno R3 = 1 / DC Motor = 2 / 9V Battery = 1 / H bridge L293D
 
 the code
