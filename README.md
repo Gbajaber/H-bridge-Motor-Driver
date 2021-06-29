@@ -33,4 +33,5 @@ void loop()
 }
 
 tinkercad link
-https://www.tinkercad.com/things/hfdPIIKpVxz-h-bridge-motor-driver/editel
+
+https://www.tinkercad.com/things/7ONo2IYHYMr-neat-borwo/editel
