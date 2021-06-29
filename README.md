@@ -32,6 +32,4 @@ void loop()
   delay (10000);
 }
 
-tinkercad link
 
-https://www.tinkercad.com/things/7ONo2IYHYMr-neat-borwo/editel
